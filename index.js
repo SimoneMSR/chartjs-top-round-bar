@@ -1,3 +1,4 @@
+import {Chart} from "chart.js"
   var randomScalingFactor = function() {
     return (Math.random() > 0.5 ? 1.0 : 1.0) * Math.round(Math.random() * 100);
   };

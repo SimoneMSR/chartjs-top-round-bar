@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/contactlutforrahman/chartjs-top-round-bar/issues"
   },
-  "homepage": "https://github.com/contactlutforrahman/chartjs-top-round-bar#readme"
+  "homepage": "https://github.com/contactlutforrahman/chartjs-top-round-bar#readme",
+  "dependencies" : {
+    "chart.js" : "^2.8.0"
+  }
 }
